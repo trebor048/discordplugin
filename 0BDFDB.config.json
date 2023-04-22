@@ -1,0 +1,30 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.2.8",
+			"ImageUtilities": "5.2.4",
+			"MessageUtilities": "1.9.6",
+			"PersonalPins": "2.1.7",
+			"PinDMs": "1.9.7",
+			"PluginRepo": "2.5.0",
+			"ReadAllNotificationsButton": "1.7.4",
+			"ServerDetails": "1.1.6",
+			"ServerHider": "6.2.6",
+			"SpotifyControls": "1.3.4",
+			"ThemeRepo": "2.5.0"
+		},
+		"choices": {
+			"toastPosition": "center"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "eb5c5e2a743d24c77c0fda26d98b2a44007e9725",
+			"0BDFDB.raw.css": "669b57713c736057d0465f4f6258d01a964161e8"
+		}
+	}
+}

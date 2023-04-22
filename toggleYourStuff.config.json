@@ -1,0 +1,94 @@
+{
+    "settings": {
+        "plugins": {
+            "BetterAnimations": {
+                "hotkey": "Digit6",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 54
+            },
+            "ChannelTabs": {
+                "hotkey": "Digit8",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 56
+            },
+            "DateViewer": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            },
+            "DoNotTrack": {
+                "hotkey": "Digit9",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 57
+            },
+            "PinDMs": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            },
+            "ProProfile": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            },
+            "ServerDetails": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            },
+            "ServerHider": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            },
+            "StickerSnatcher": {
+                "hotkey": "Digit7",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 55
+            }
+        },
+        "themes": {
+            "SettingsModal": {
+                "hotkey": "Digit0",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 48
+            },
+            "Unity": {
+                "hotkey": "Digit0",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 48
+            },
+            "Modern Indicators": {
+                "hotkey": "Digit0",
+                "ctrl": true,
+                "shift": true,
+                "alt": false,
+                "keycode": 48
+            }
+        },
+        "cancelDefault": false,
+        "_note": "The plugin uses the keycodes for detecting a match. The hotkeys are for display in settings only."
+    }
+}

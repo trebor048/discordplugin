@@ -1,0 +1,80 @@
+{
+	"all": {
+		"detailsSettings": {
+			"footnote": false,
+			"tooltip": true,
+			"tooltipDelay": 0
+		},
+		"engines": {
+			"Baidu": false,
+			"Bing": false,
+			"Google": true,
+			"GoogleLens": true,
+			"IQDB": false,
+			"ImgOps": false,
+			"Reddit": true,
+			"SauceNAO": false,
+			"Sogou": false,
+			"TinEye": true,
+			"WhatAnime": false,
+			"Yandex": false,
+			"_all": true
+		},
+		"galleryFilter": {
+			"3gp": true,
+			"avi": true,
+			"flv": true,
+			"jpeg": true,
+			"jpg": true,
+			"gif": true,
+			"mov": true,
+			"mp4": true,
+			"mpeg-1": true,
+			"mpeg-2": true,
+			"ogg": true,
+			"png": true,
+			"svg": true,
+			"webm": true,
+			"webp": true,
+			"wmv": true
+		},
+		"general": {
+			"nsfwMode": false
+		},
+		"ownLocations": {
+			"Downloads": {
+				"enabled": true,
+				"location": "C:\\Users\\rober\\Downloads"
+			},
+			"emojis": {
+				"enabled": true,
+				"location": "c:/users/rober/desktop/emojis"
+			}
+		},
+		"places": {
+			"userAvatars": true,
+			"groupIcons": true,
+			"guildIcons": true,
+			"streamPreviews": true,
+			"emojis": true
+		},
+		"rescaleSettings": {
+			"messages": "NONE",
+			"imageViewer": "NONE"
+		},
+		"viewerSettings": {
+			"zoomMode": true,
+			"galleryMode": true,
+			"details": true,
+			"copyImage": true,
+			"saveImage": true,
+			"jumpTo": true
+		},
+		"zoomSettings": {
+			"lensSize": 200,
+			"pixelMode": false,
+			"zoomLevel": 2,
+			"zoomSpeed": 0.1
+		}
+	}
+}
